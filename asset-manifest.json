@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://marufsharia.github.io/csb-kbkv4u/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://marufsharia.github.io/csb-kbkv4u/static/js/main.2b6c3a8a.chunk.js",
+    "main.js.map": "https://marufsharia.github.io/csb-kbkv4u/static/js/main.2b6c3a8a.chunk.js.map",
+    "runtime-main.js": "https://marufsharia.github.io/csb-kbkv4u/static/js/runtime-main.b919c395.js",
+    "runtime-main.js.map": "https://marufsharia.github.io/csb-kbkv4u/static/js/runtime-main.b919c395.js.map",
+    "static/js/2.81daf36f.chunk.js": "https://marufsharia.github.io/csb-kbkv4u/static/js/2.81daf36f.chunk.js",
+    "static/js/2.81daf36f.chunk.js.map": "https://marufsharia.github.io/csb-kbkv4u/static/js/2.81daf36f.chunk.js.map",
+    "index.html": "https://marufsharia.github.io/csb-kbkv4u/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://marufsharia.github.io/csb-kbkv4u/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.81daf36f.chunk.js.LICENSE.txt": "https://marufsharia.github.io/csb-kbkv4u/static/js/2.81daf36f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b919c395.js",
+    "static/js/2.81daf36f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.2b6c3a8a.chunk.js"
+  ]
+}
